@@ -1,0 +1,4 @@
+/Users/macbookvonrafael/CLionProjects/Doctest/cmake-build-debug/CMakeFiles/Main.dir
+/Users/macbookvonrafael/CLionProjects/Doctest/cmake-build-debug/CMakeFiles/Test.dir
+/Users/macbookvonrafael/CLionProjects/Doctest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbookvonrafael/CLionProjects/Doctest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
