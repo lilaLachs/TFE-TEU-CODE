@@ -1,0 +1,12 @@
+int checksum(int number)            //Funktion der Quersumme
+{
+    int sum = 0;
+    int rest = 0;
+    while (number > 0)
+    {
+        rest = number % 10;         //Hinterste Zahl ermitteln
+        number = number / 10;       //Nächsthintere Zahl erzeugen
+        sum = sum + rest;           //hinterste Zahl aufsummieren
+    }
+    return sum;                     //Gesamtsumme zurückgeben
+}
