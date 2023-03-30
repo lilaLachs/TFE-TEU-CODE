@@ -1,12 +1,8 @@
-#include <iostream>
-#include "Ackermann.h"
+#include "iostream"
+#include "fibonacci.h"
 
-int main() {
-unsigned int result, m , n;
-
-std::cin >> m >> n;
-
-result = ackermann(n, m);
-
-std::cout << result;
+int main(){
+    int n;
+    std::cin >> n ;
+    std::cout << fibonacci_iterative(n);
 }
